@@ -117,5 +117,18 @@ nav img {
   font-family: Helvetica;
   font-weight: bold;
   font-size: 1rem;
+  color: white;
   background-color: cadetblue;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  background-color: azure;
+}
+
+footer img {
+  height: 1.5rem;
+  padding: 4rem 4rem;
+  margin-right: 1rem;
 }
