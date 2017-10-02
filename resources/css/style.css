@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  line-height: 1.4rem;
+  line-height: 1.4;
 }
 
 .container {
@@ -22,6 +22,10 @@ header {
   color: white;
   padding-top: 1rem;
   background-size: cover;
+}
+
+header .flex {
+  justify-content: flex-end;
 }
 
 nav {
@@ -54,4 +58,16 @@ nav img {
 }
 
 #banner {
+  margin-top: 10rem;
+  margin-right: -2rem;
+  padding: 1.5rem 5rem;
+  color: black;
+  background-color: white;
+}
+
+#banner h1 {
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 2rem;
+  line-height: 1.2;
 }
