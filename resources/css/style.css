@@ -71,3 +71,31 @@ nav img {
   font-size: 2rem;
   line-height: 1.2;
 }
+
+#products {
+  display: flex;
+  justify-content: center;
+}
+
+.product {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  margin: 3rem;
+  width: 5rem;
+  height: 8rem;
+}
+
+#exams img {
+  width: 3.5rem;
+}
+
+#fittings img {
+  width: 5rem;
+}
+
+#delivery img {
+  width: 5rem;
+}
