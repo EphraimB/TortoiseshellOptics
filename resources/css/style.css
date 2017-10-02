@@ -99,3 +99,23 @@ nav img {
 #delivery img {
   width: 5rem;
 }
+
+#contact {
+  display: flex;
+  justify-content: center;
+}
+
+.info {
+  width: 35%;
+  margin-right: 5%;
+  margin-bottom: 4rem;
+}
+
+.title {
+  max-width: 10rem;
+  padding: 0.5rem 1.25rem;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 1rem;
+  background-color: cadetblue;
+}
