@@ -37,6 +37,10 @@ nav {
   background-color: cadetblue;
 }
 
+.mobileMenu {
+  display: none;
+}
+
 nav div {
   display: flex;
   align-items: center;
@@ -154,6 +158,26 @@ footer img {
   }
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 700px) {
+  header {
+    background-position: 20%;
+    height: 17rem;
+  }
+
+  #banner {
+    margin-top: 9rem;
+  }
+
+  .regularMenu {
+    display: none;
+  }
+
+  .mobileMenu {
+    display: block;
+  }
+
+  nav div span {
+    display: none;
+  }
   
 }
