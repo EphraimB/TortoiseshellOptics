@@ -139,6 +139,18 @@ footer img {
   }
 
   header {
+    height: 22rem;
     padding-top: 0;
   }
+
+  #banner {
+    margin-top: 5rem;
+    margin-right: 2rem;
+    padding: 0.75rem 4rem;
+  }
+
+  #banner h1 {
+    font-size: 1.33rem;
+  }
+  
 }
