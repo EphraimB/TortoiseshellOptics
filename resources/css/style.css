@@ -165,7 +165,14 @@ footer img {
   }
 
   #banner {
-    margin-top: 9rem;
+    margin: 9rem 0;
+    padding: 1rem 0;
+    width: 100%;
+  }
+
+  #banner {
+    font-size: 1rem;
+    text-align: center;
   }
 
   .regularMenu {
@@ -179,5 +186,4 @@ footer img {
   nav div span {
     display: none;
   }
-  
 }
