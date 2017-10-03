@@ -152,5 +152,8 @@ footer img {
   #banner h1 {
     font-size: 1.33rem;
   }
+}
+
+@media only screen and (max-width: 480px) {
   
 }
