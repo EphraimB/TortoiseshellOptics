@@ -208,4 +208,12 @@ footer img {
     flex-direction: column;
     width: 100%;
   }
+
+  footer {
+    justify-content: center;
+  }
+
+  footer p {
+    display: none;
+  }
 }
