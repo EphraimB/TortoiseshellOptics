@@ -218,6 +218,7 @@ footer img {
   .info p {
     font-family: Helvetica;
     font-size: 0.77rem;
+    margin-left: 0.5rem;
   }
 
   footer {
