@@ -204,9 +204,8 @@ footer img {
   }
 
   #contact {
-    align-items: center;
     flex-direction: column;
-    width: 100%;
+    align-items: center;
   }
 
   footer {
@@ -215,5 +214,9 @@ footer img {
 
   footer p {
     display: none;
+  }
+
+  .title {
+    margin-bottom: 1rem;
   }
 }
