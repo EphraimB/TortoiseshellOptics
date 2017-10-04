@@ -208,6 +208,11 @@ footer img {
     align-items: center;
   }
 
+  .info p {
+    font-family: Helvetica;
+    font-size: 0.77rem;
+  }
+
   footer {
     justify-content: center;
   }
